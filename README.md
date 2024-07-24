@@ -30,8 +30,8 @@ In the era of Industry 4.0, digital twin technology has emerged as a transformat
 
 ## Links
 - [Video Demonstration](https://drive.google.com/file/d/1U5L2hOna5IAfD7ER4gAzBIfexbsxQbkB/view?usp=sharing)
-- [Project Report](https://drive.google.com/file/d/1g5xoaJyODUZcIlWIbK4km57k_E0hGedD/view?usp=drive_link)
-- [Presentation](https://drive.google.com/file/d/1h4faO0o6JyIP5yaWSJqdkzv-zLVhYer7/view?usp=sharing)
+- [Project Report](https://drive.google.com/file/d/18ubnR6tx1zF2ZxJaxIb4oK5hadA2T12q/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1XPxrMsg5S1cac36U2cly4w3FZCQk_bSe/view?usp=sharing)
 
 ## Author
 - **Antim**
